@@ -3,7 +3,7 @@
  </p>
  
 <p align="center">
-  <img src=".github/p1.png" alt="Demonstração do projeto" width="100%" />
+  <img src="/assets/p1.png" alt="Demonstração do projeto" width="100%" />
 </p>
 
 ## 🖥️ Projeto
